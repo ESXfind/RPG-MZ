@@ -3,14 +3,15 @@
  * @plugindesc 메인 타이틀 화면 수정
  * @author Friends
  *
- * @help
- * 이 플러그인은 데이터베이스 설정을 무시하고
- * 플러그인 매개변수에서 설정한 이미지를 타이틀 화면으로 사용합니다.
+ * @help Hiroine_Title
  *
+ *  플러그인 Hiroine_Title
+ * 버전 1.0
+ * 
+ * 원본 소스 : rmmz_scenes.js
  * @param backgroundName
  * @text 매인메뉴 편집
  * @type file
- * @dir source\img\
  */
 
 function Scene_Title() {
